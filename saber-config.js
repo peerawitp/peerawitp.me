@@ -20,27 +20,27 @@ module.exports = {
     skills: [
       {
         topic: 'nodejs',
-        description: `NodeJS`
+        description: 'NodeJS'
       },
       {
         topic: 'javascript',
-        description: `JavaScript`
+        description: 'JavaScript'
       },
       {
         topic: 'typescript',
-        description: `TypeScript`
+        description: 'TypeScript'
       },
       {
         topic: 'flutter',
-        description: `Flutter`
+        description: 'Flutter'
       },
       {
         topic: 'firebase',
-        description: `Firebase`
+        description: 'Firebase'
       },
       {
         topic: 'mysql',
-        description: `MySQL`
+        description: 'MySQL'
       }
     ]
   },
