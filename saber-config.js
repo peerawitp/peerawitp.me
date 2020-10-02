@@ -4,6 +4,7 @@ module.exports = {
   },
   theme: 'portfolio',
   themeConfig: {
+    projects: 'pinned-repos',
     style: 'dark',
     github: 'peerawitp',
     twitter: 'feelingzexe',
