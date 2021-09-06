@@ -20,6 +20,8 @@
 Thumbs.db
 
 # Package
+package-lock.json
+yarn.lock
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
