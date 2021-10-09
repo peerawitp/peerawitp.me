@@ -8,7 +8,7 @@ module.exports = windmill({
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Inter', 'Sarabun', 'sans-serif'],
       },
       typography: (theme) => ({
         DEFAULT: {
