@@ -38,7 +38,7 @@ const RecentProjects = () => {
       </div>
       <div className="bg-gray-100 dark:bg-gray-900 hover:shadow-lg focus:shadow-lg mb-5 flex flex-col rounded-lg md:mt-5">
         <a
-          href="https://github.com/peerawitp/discordjs-thaipost"
+          href="https://github.com/peerawitp/fluttercovidthai"
           target="_blank"
           rel="noopener noreferrer"
           className="focus:bg-gray-100 dark:focus:bg-gray-900 p-4 flex"
