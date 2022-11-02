@@ -14,13 +14,13 @@
       </p>
       <div class="mt-8 flex flex-wrap gap-6">
         <a
-          class="underline"
+          class="underline transition-opacity hover:opacity-80"
           href="https://github.com/peerawitp/"
           target="_blank"
           >GitHub</a
         >
         <a
-          class="underline"
+          class="underline transition-opacity hover:opacity-80"
           href="https://instagram.com/jaw.py/"
           target="_blank"
           >Instagram</a
